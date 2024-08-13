@@ -1,4 +1,3 @@
-```py
 is_leap_year = None
 
 year = int(input())
@@ -18,4 +17,4 @@ if is_leap_year:
   print(f'{year} is a leap year')
 else:
   print(f'{year} is not a leap year')
-```
+
