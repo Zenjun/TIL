@@ -1,4 +1,3 @@
-```py
 L = input().split()
 min = int(L[0])
 max = int(L[1])
@@ -13,4 +12,3 @@ while temp != -999:
     else:
       print('Alert!')
       break
-```
