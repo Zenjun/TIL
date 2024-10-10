@@ -5,7 +5,7 @@ def read(text):
     ridename = ridename.strip() # 공백 제거
     restrictions = restrictions.strip()
 
-    cmmin = cmmax = None
+    cmmin = cmmax = None    # 초깃값 설정
 
     # 제한 조건 분석
     if "~" in restrictions:
